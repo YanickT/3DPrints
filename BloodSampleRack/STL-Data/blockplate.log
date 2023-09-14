@@ -1,0 +1,30 @@
+Solid Edge in STL konvertieren
+Datum: Donnerstag,September 14,2023 10:08
+Quelldatei:C:\Users\yanic\Documents\GitHub\3DPrints\3DPrints\BloodSampleRack\SolidEdgeData\blockplate.par
+Ausgangssystem: SOLID EDGE
+
+Hardware:
+Prozessor: AMD Ryzen 7 4700U with Radeon Graphics         
+Betriebssystem: Windows 10 Professional
+Installierter Speicher: 15,22 GB
+
+Software-Informationen:
+Parasolid-Version: 34.0.153
+PSBodyshop-Version: 34.0.110
+Solid Edge-Version: 222.00.00.132 x64
+
+STL-Exportoptionen:
+Ausgabedateiformat:BINARY
+Angezeigte Teile exportieren: Aus
+Strukturoption: Monolithic
+Einheiten exportieren:Millimeter
+Toleranzwert exportieren:0,001000
+Toleranztyp exportieren:Fine
+Flächenplanwinkelwert exportieren:0,523599
+
+Konvertierungsfortschritt:
+Phase 1 von 2 - Abrufen der Parasolid-Informationen...
+Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
+Anzahl erstellter STL-Dateien : 1
+Konvertierungsvorgang ist abgeschlossen
+Zum Konvertieren benötigte Zeit:00 : 00 : 00
